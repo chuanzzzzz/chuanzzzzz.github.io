@@ -2,3 +2,8 @@
   object-fit: cover;
 }
 
+#ws {
+  margin-top: 0;
+  margin-bottom: 23;
+}
+
